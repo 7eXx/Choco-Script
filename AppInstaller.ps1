@@ -8,6 +8,6 @@ $chocolateyAppList = "googlechrome, firefox, opera,
                         openjdk, python, nodejs, powershell-core,
                         winscp, putty, git, eclipse-java-oxygen, vscode, vscode-insiders,
                         notepadplusplus.install, sublimetext3,
-                        hackfont, cascadiacode"
+                        hackfont, cascadiacode, firacode"
 
 Invoke-Expression ".\InstallApps.ps1 ""$chocolateyAppList"""
