@@ -15,7 +15,7 @@ $chocolateyAppList += "vlc, spotify, k-litecodecpackfull, imgburn, paint.net, gi
 $chocolateyAppList += "freecommander-xe.install, vnc-viewer, teamviewer, winscp, putty, ";
                         
 # dev tools and platform
-$chocolateyAppList += "openjdk, python, nodejs, git, powershell-core, ";
+$chocolateyAppList += "microsoft-windows-terminal, powershell-core, openjdk, python, nodejs, git, ";
 
 # ide and editor
 $chocolateyAppList += "eclipse-java-oxygen, vscode, vscode-insiders, notepadplusplus.install, sublimetext3, ";
