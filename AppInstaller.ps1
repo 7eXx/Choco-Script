@@ -12,7 +12,7 @@ $chocolateyAppList += "7zip, adobereader, libreoffice-fresh, thunderbird, keepas
 $chocolateyAppList += "vlc, spotify, k-litecodecpackfull, imgburn, paint.net, gimp, sharex, google-backup-and-sync, ";
 
 # other utilitis 
-$chocolateyAppList += "rufus, etcher, vnc-viewer, teamviewer, winscp, putty, ";
+$chocolateyAppList += "rufus, etcher, treesize, ccleaner, vnc-viewer, teamviewer, winscp, putty, ";
                         
 # dev tools and platform
 $chocolateyAppList += "microsoft-windows-terminal, powershell-core, openjdk, python, nodejs, git, tortoisegit, ";
